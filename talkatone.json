@@ -8,11 +8,6 @@
 				"205.164.56.0/24",
                 "63.251.124.0/24"
             ],
-            "domain_keyword": [
-                "generativelanguage",
-                "developerprofiles",
-                "colab"
-            ],
             "domain_suffix": [
                 "mobilefuse.com",
                 "inmobi.com",
@@ -21,7 +16,7 @@
                 "kochava.com",
                 "tktn.be",
                 "cohere.com",
-				"ip-api.com",
+		"ip-api.com",
                 "agkn.com",
                 "tktn.at"
             ]
