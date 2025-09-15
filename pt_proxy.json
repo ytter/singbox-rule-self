@@ -3,12 +3,13 @@
     "rules": [
         {
             "domain_suffix": [
-				"hdkyl.in","eu.org",
-				"pterclub.com",
+                "hdkyl.in",
+                "eu.org",
+                "pterclub.com",
                 "ptchdbits.co",
                 "ubits.club",
-				"reddit.com",
-				"m-team.cc",
+                "reddit.com",
+                "m-team.cc",
                 "hdvideo.one",
                 "privatehd.to",
                 "beyond-hd.me",
