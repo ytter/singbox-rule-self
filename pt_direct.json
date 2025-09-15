@@ -1,17 +1,17 @@
 {
-  "version": 1,
-  "rules": [
-    {
-		"domain_keyword": [
-			"hhanclub","hdfans",
-			"gazellegames"
-		],
-		
-      "domain_suffix": [
-	      "gazellegames.net","hdfans.org",
-          "hhanclub.top"
-          
-        ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain_keyword": [
+                "hhanclub",
+                "hdfans",
+                "gazellegames"
+            ],
+            "domain_suffix": [
+                "gazellegames.net",
+                "hdfans.org",
+                "hhanclub.top"
+            ]
+        }
+    ]
 }
