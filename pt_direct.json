@@ -3,12 +3,12 @@
     "rules": [
         {
             "domain_keyword": [
-                "hhanclub","hdkyl.in","njglky.com","www.ruoyi.de",
+                "hhanclub","hdkyl.in","njglky.com",
                 "hdfans","njglky.com",
                 "gazellegames"
             ],
             "domain_suffix": [
-                "gazellegames.net","www.njglky.com","hdfans.org","www.njglky.com",
+                "gazellegames.net","www.njglky.com","hdfans.org"
                 "hhanclub.top"
             ]
         }
