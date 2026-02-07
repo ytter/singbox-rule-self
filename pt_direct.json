@@ -3,12 +3,15 @@
     "rules": [
         {
             "domain_keyword": [
-                "hhanclub","njglky.com",
-                
+                "hhanclub",
+                "njglky.com",
+                "zhuanlan.zhihu.com",
                 "gazellegames"
             ],
             "domain_suffix": [
-                "gazellegames.net","www.njglky.com",
+                "gazellegames.net",
+                "www.njglky.com",
+                "www.zhuanlan.zhihu.com",
                 "hhanclub.top"
             ]
         }
